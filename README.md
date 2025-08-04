@@ -1,16 +1,23 @@
-## Hi there 👋
+![Pink Banner](https://placehold.co/1200x200/ffc0cb/ffffff?text=Welcome+to+My+GitHub!)
 
-<!--
-**shetrainsmodels/shetrainsmodels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎀 Hi, I’m Katy 
 
-Here are some ideas to get you started:
+💡 I'm a Ms student in Deep Learning
+📊 Researching **Machine Learning & Human Activity Recognition**  
+🌸 Passionate about AI, Sensors, and Fusion  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💖 GitHub Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=trainsmodels&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=333333&bg_color=fff0f5)
+
+---
+
+## 🌸 Featured Projects  
+*(coming soon!)*  
+
+---
+
+<img src="https://placehold.co/800x5/ff69b4/ff69b4.png" alt="pink divider"/>
+
+✨ Thanks for visiting my profile ✨
