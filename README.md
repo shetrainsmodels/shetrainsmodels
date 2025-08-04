@@ -9,7 +9,7 @@
 ---
 
 ## 💖 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=trainsmodels&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=333333&bg_color=fff0f5)
+![Stats](https://github-readme-stats.vercel.app/api?username=shetrainsmodels&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=333333&bg_color=fff0f5)
 
 ---
 
