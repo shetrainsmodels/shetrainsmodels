@@ -1,6 +1,6 @@
 ![Pink Banner](https://placehold.co/1200x200/ffc0cb/ffffff?text=Welcome+to+My+GitHub!)
 
-# 🎀 Hi, I’m Katy 
+# Hi, I’m Katy 
 
 💡 I'm a Ms student in Deep Learning
 📊 Researching **Machine Learning & Human Activity Recognition**  
