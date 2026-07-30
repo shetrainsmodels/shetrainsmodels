@@ -1,16 +1,22 @@
-## Hi there 👋
+## 💫 About Me
 
-<!--
-**shetrainsmodels/shetrainsmodels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=katy121212&redirect=true">
+  <img
+    align="right"
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=katy121212&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false"
+    alt="Katherine's currently playing Spotify song"
+  />
+</a>
 
-Here are some ideas to get you started:
+Hi, I'm K! ⊹˚₊ <br><br>
+Welcome to my machine learning diary: full of experiments, imperfect code, and curious ideas :) <br>
+Somewhere in latent space, asking machines why they refuse to generalize ..🌸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+#### Quote:
+*Y'all cant see me, hot like panini,*
+*moves like fushigi, never let you be me,*
+*keep running ur mouth, step to me and u might find out !!*
+
+<br clear="both"/>
